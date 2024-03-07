@@ -1,3 +1,3 @@
-const famousPerson = "Walt Disney"; // Store the name of the famous person in a variable.
+let famousPersonWhoSaidSomething = "Walt Disney"; // Store the name of the famous person in a variable.
 
-console.log(`${famousPerson} once said "It's fun to do the impossible."`); // Concatinate the name of the famous person with their quote and print it.
+console.log(`${famousPersonWhoSaidSomething} once said "It's fun to do the impossible."`); // Concatinate the name of the famous person with their quote and print it.
