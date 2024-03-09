@@ -7,3 +7,6 @@ while (guests.length > 2) {
 guests.forEach(function (guests) {
     console.log(guests);
 });
+// Note to self:
+// Another way to do this.
+// guests.splice(1, guests.length-2);
